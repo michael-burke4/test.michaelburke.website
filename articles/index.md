@@ -5,5 +5,5 @@ title: Articles
 # Articles
 
 {% for post in site.articles %}
-- [{{ post.title }}]({{ post.url }})
+<a href='{{ post.url }}'>{{ post.title }}</a>
 {% endfor %}

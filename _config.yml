@@ -1,1 +1,10 @@
-permalink: /articles/:title
+defaults:
+  - scope:
+      path: "slides"
+    values:
+      permalink: /slides/:title
+
+  - scope:
+      path: "articles"
+    values:
+      permalink: /articles/:title

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Articles
+title: Slides
 ---
-# Articles
+# Slides
 
-{% for post in site.articles %}
+{% for post in site.slides %}
 - [{{ post.title }}]({{ post.url }})
 {% endfor %}

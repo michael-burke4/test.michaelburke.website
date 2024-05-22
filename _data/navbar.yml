@@ -1,3 +1,7 @@
 items:
   - title: Home
     url: /index.html
+  - title: Articles
+    url: /articles
+  - title: Slides
+    url: /slides

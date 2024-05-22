@@ -3,3 +3,4 @@ collections:
     output: true
   slides:
     output: true
+remote_theme: underground-software/kdlp-theme

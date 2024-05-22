@@ -5,3 +5,7 @@ items:
     url: /articles
   - title: Slides
     url: /slides
+  - title: Courses
+    url: /course/index.html
+  - title: FAQ
+    url: /faq.html
